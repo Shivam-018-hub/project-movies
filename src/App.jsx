@@ -8,15 +8,12 @@ function App() {
 
 
   return (
-    <BrowserRouter>
-    <Routes>
+    
       
     <div className='Parent'>
-    <Route path='/SecPage.jsx'       element ={<Comp/>}/>
+    <Comp/>
       
     </div>
-    </Routes>
-    </BrowserRouter>
   )
 }
 
