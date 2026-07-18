@@ -1,13 +1,11 @@
-import { useParams } from 'react-router';
-import Nav from './FirstPage/nav';
-import './secondpage.css'
-import { moviesData } from './movie.jsx';
+import { useParams } from 'react-router-dom';
+import Nav from '../FirstPage/nav';
+import '../secondpage.css'
+import { moviesData } from './movie';
 
 function Sec() {
     const { id } = useParams()
-
     const movie = moviesData.find((e) => e.id === id)
-
     return (
         <div>
             <Nav />

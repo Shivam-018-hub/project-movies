@@ -1,5 +1,4 @@
-function Error ()
-{
+function Error() {
     return (
         <h1> Errorr </h1>
     )
