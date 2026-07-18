@@ -10,12 +10,15 @@ function App() {
 
 
   return (
-
+   <>     
     <Routes>
+    
         <Route path='/' element={ <Comp /> }/>
         <Route path='/movie/:id' element={ <Sec/> }/>
         <Route path='*' element={ <Error/> }/>
     </Routes>
+
+    </>
 
   )
 }
