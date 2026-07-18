@@ -4,6 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(247, 245, 243);
 }
 
 body {
@@ -57,6 +58,7 @@ body {
   transition: transform 0.3s, box-shadow 0.3s;
   text-decoration: none;
   color: inherit;
+  display: block;
 }
 
 /* Hover Effect */

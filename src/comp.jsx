@@ -3,7 +3,7 @@ import Nav from './FirstPage/nav.jsx'
 
 
 import './App.css'
-const moviesData = [
+ export const moviesData = [
   {
     id: "solo-leveling-reawakening",
     title: "Solo Leveling: ReAwakening",
@@ -14,7 +14,10 @@ const moviesData = [
     shortDesc: "Sabse kamzor hunter se duniya ka sabse taakatwar banne ki kahani.",
     fullDesc: "Yeh kahani hai ek aisi duniya ki jahan achanak se insano aur monsters ke beech jang shuru ho jati hai. Hamara main character 'Song Jin-Woo' jo kabhi puri duniya ka sabse kamzor hunter hua karta tha, ek rahasyamayi ghatna ke baad use ek 'system' milta hai. Ab woh kaise duniya ka sabse khatarnak aur taakatwar Shadow Monarch banta hai, yehi is movie mein dikhaya gaya hai.",
     posterUrl: "https://raw.githubusercontent.com/Shivam-018-hub/photos/main/igris.jpg",
-    screenshots: ["img/solo1.jpg", "img/solo2.jpg", "img/solo3.jpg", "img/solo4.jpg", "img/solo5.jpg"],
+    screenshots: ["https://raw.githubusercontent.com/Shivam-018-hub/photos/main/solo1.jpeg",
+       "https://raw.githubusercontent.com/Shivam-018-hub/photos/main/solo2.jpeg",
+        "https://raw.githubusercontent.com/Shivam-018-hub/photos/main/solo3.jpeg",
+         "https://raw.githubusercontent.com/Shivam-018-hub/photos/main/solo4.jpeg"],
     downloadLink: "img/s.mp4"
     
   },
@@ -182,3 +185,4 @@ function Comp() {
 }
 
 export default Comp;
+
