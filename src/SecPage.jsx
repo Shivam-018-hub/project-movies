@@ -1,7 +1,7 @@
 import { useParams } from 'react-router';
 import Nav from './FirstPage/nav';
 import './secondpage.css'
-import { moviesData } from './comp';
+import { moviesData } from './movie.jsx';
 
 function Sec() {
     const { id } = useParams()
