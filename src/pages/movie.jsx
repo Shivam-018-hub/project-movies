@@ -13,7 +13,7 @@ export const moviesData = [
        "https://raw.githubusercontent.com/Shivam-018-hub/photos/main/solo2.jpeg",
         "https://raw.githubusercontent.com/Shivam-018-hub/photos/main/solo3.jpeg",
          "https://raw.githubusercontent.com/Shivam-018-hub/photos/main/solo4.jpeg"],
-    downloadLink: "img/s.mp4"
+    downloadLink: "https://drive.usercontent.google.com/download?id=1JM31oEFT1Masc-tXk4AcxjYoYgLMughS&export=download"
     
   },
   {
