@@ -13,8 +13,12 @@ export const moviesData = [
        "https://raw.githubusercontent.com/Shivam-018-hub/photos/main/solo2.jpeg",
         "https://raw.githubusercontent.com/Shivam-018-hub/photos/main/solo3.jpeg",
          "https://raw.githubusercontent.com/Shivam-018-hub/photos/main/solo4.jpeg"],
-    downloadLink: "https://drive.usercontent.google.com/download?id=1JM31oEFT1Masc-tXk4AcxjYoYgLMughS&export=download"
-    
+    downloadLink: ["https://drive.usercontent.google.com/download?id=1JM31oEFT1Masc-tXk4AcxjYoYgLMughS&export=download",
+    "https://drive.usercontent.google.com/download?id=1bviw6IjZdM2srhhEr1HIa4Dmr0cTMMag&export=download",
+    "https://drive.usercontent.google.com/download?id=1mD-5y38sUzTcvG2oGcS7K2PvZdWj2sT6&export=download"],
+    Rename:["Solo Leveling 2024 S01E01 1080p BluRay 10bit HEVC Hindi English Japanese AAC2.0 x265 Esub-HDHub4u.Tv.mp4",
+    "Solo Leveling 2024 S01E02 1080p BluRay 10bit HEVC Hindi English Japanese AAC2.0 x265 Esub-HDHub4u.Tv.mp4",
+    "Solo Leveling 2024 S01E03 1080p BluRay 10bit HEVC Hindi English Japanese AAC2.0 x265 Esub-HDHub4u.Tv.mp4"]
   },
   {
     id: "one-piece-film-red",
