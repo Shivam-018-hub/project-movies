@@ -44,7 +44,7 @@ function Sec() {
                 </div>
 
                 <div className="download-section">
-                    <a href="img/s.mp4" className="download-btn" target="blank" download="Solo_Leveling[Hindi]_1080P_S01_E01.mp4">
+                    <a href={movie.downloadLink} className="download-btn" target="blank" download="Solo_Leveling[Hindi]_1080P_S01_E01.mp4">
                         <span>⬇️</span> Download Movie (HD - 1080p)
                     </a>
                 </div>
